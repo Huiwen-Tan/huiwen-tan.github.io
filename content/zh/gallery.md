@@ -10,6 +10,13 @@ design:
 sections:
   - block: markdown
     content:
+      title: 2024
+      text: |-
+        我和我的朋友们以一等荣誉的成绩从UQ化学系毕业 🎓
+        ![uqfriends](uqfriends)
+        ![graduation](graduation.jpg)
+  - block: markdown
+    content:
       title: 2023
       text: |-
         这张照片拍摄于2023年的11月，我们Powell小组为了庆祝Dr Nadeem Natt取得他的博士学位在Saint Lucy聚餐 🍻

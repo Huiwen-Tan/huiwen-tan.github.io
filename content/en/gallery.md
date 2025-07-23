@@ -10,6 +10,13 @@ design:
 sections:
   - block: markdown
     content:
+      title: 2024
+      text: |-
+        I graduated from UQ with first-class honors in chemistry along with my friends 🎓
+        ![uqfriends](uqfriends)
+        ![graduation](graduation.jpg)
+  - block: markdown
+    content:
       title: 2023
       text: |-
         This photo was taken in November 2023, when our people in the Powell Group celebrated Dr Nadeem Natt's completion of his PhD 🍻
