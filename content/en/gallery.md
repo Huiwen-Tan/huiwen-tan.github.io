@@ -13,7 +13,7 @@ sections:
       title: 2024
       text: |-
         I graduated from UQ with first-class honors in chemistry along with my friends 🎓
-        ![uqfriends](uqfriends)
+        ![uqfriends](uqfriends.jpg)
         ![graduation](graduation.jpg)
   - block: markdown
     content:

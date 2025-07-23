@@ -13,7 +13,7 @@ sections:
       title: 2024
       text: |-
         我和我的朋友们以一等荣誉的成绩从UQ化学系毕业 🎓
-        ![uqfriends](uqfriends)
+        ![uqfriends](uqfriends.jpg)
         ![graduation](graduation.jpg)
   - block: markdown
     content:
