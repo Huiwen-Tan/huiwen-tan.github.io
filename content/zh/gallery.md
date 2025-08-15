@@ -10,6 +10,12 @@ design:
 sections:
   - block: markdown
     content:
+      title: 2025
+      text: |-
+        港中文章教授实验室博士生的第一张合影 (导师不在🔥🔥🔥)
+        ![zhanglab1](zhanglab_phd.jpg)
+  - block: markdown
+    content:
       title: 2024
       text: |-
         我和我的朋友们以一等荣誉的成绩从UQ化学系毕业 🎓

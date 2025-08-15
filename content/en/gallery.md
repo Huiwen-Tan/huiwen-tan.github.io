@@ -10,6 +10,12 @@ design:
 sections:
   - block: markdown
     content:
+      title: 2025
+      text: |-
+        The first group photo of PhD students in CUHK Zhang Lab (without PI 🔥🔥🔥)
+        ![zhanglab1](zhanglab_phd.jpg)
+  - block: markdown
+    content:
       title: 2024
       text: |-
         I graduated from UQ with first-class honors in chemistry along with my friends 🎓
