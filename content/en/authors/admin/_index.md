@@ -10,7 +10,7 @@ last_name: Tan
 superuser: true
 
 # Role/position/tagline
-role: Incoming Ph.D. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

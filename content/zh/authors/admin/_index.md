@@ -10,7 +10,7 @@ last_name: 谈
 superuser: true
 
 # Role/position/tagline
-role: 即将入学的博士生
+role: 博士生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
