@@ -116,7 +116,7 @@ skills:
 
 ---
 
-欢迎来到我的主页！我是[香港中文大学化学系](https://chem.cuhk.edu.hk/)即将入学的博士生，我的博导是[Dr. Xinglong Zhang](https://xinglong-zhang.github.io/index.html)。目前，我们的研究重点是开发计算化学工具来自动化工作流程和加速化学发现。
+欢迎来到我的主页！我是[香港中文大学化学系](https://chem.cuhk.edu.hk/)的在读博士生，我的博导是[Dr. Xinglong Zhang](https://xinglong-zhang.github.io/index.html)。目前，我们的研究重点是开发计算化学工具来自动化工作流程和加速化学发现。
 
 在此之前，我在[昆士兰大学](https://scmb.uq.edu.au/profile/12166/huiwen-tan)取得了高级科学学士一等荣誉学位, 由[Prof. Ben Powell](https://people.smp.uq.edu.au/BenPowell/index.html)和[Dr Carla Verdi](https://sites.google.com/view/carla-verdi/home)指导。
 
