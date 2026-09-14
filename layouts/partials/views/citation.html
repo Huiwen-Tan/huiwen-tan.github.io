@@ -1,0 +1,46 @@
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{/* Prefer external DOI/arXiv link over the (often unrendered) local permalink. */}}
+{{ $link := $item.RelPermalink }}
+{{ with $item.Params.external_link }}
+  {{ $link = . }}
+{{ else }}
+  {{ with $item.Params.doi }}
+    {{ $link = printf "https://doi.org/%s" . }}
+  {{ end }}
+{{ end }}
+
+{{/* Resolve author display names from front matter (admin → profile title). */}}
+{{ $author_names := slice }}
+{{ range $item.Params.authors }}
+  {{ $name := . }}
+  {{ with site.GetPage (printf "/authors/%s" .) }}
+    {{ $name = .LinkTitle }}
+  {{ else }}
+    {{ with site.GetPage (printf "authors/%s" .) }}
+      {{ $name = .LinkTitle }}
+    {{ end }}
+  {{ end }}
+  {{ $author_names = $author_names | append $name }}
+{{ end }}
+
+{{ $venue := $item.Params.publication | default $item.Params.publication_short | default "" }}
+{{ $year := $item.Date.Format "2006" }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{/* Journal-style: Authors. Title. Venue Year. */}}
+  <span class="article-metadata li-cite-author">
+    {{- delimit $author_names "; " -}}.
+  </span>
+  <a href="{{ $link }}" class="underline"{{ if hasPrefix $link "http" }} target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a>.
+  {{ with $venue }}{{ . | markdownify }} {{ end }}{{- $year }}.
+
+  {{ if $has_attachments }}
+  <div class="flex flex-wrap gap-x-3 gap-y-1 mt-1">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+</div>

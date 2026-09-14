@@ -9,7 +9,7 @@ authors:
   - Chen, B. W. J.
 date: 2025-08-27
 publication_types: ["manuscript"]
-publication: "*arXiv*, **2025**, arXiv:2508.20042"
+publication: "*arXiv* 2508.20042"
 publication_short: "arXiv"
 abstract: ""
 featured: false

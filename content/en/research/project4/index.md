@@ -18,9 +18,9 @@ featured: true
 url_code: https://github.com/xinglong-zhang/chemsmart
 
 image:
-  caption: 'Image credit: Huiwen Tan'
-  focal_point: ""
-  preview_only: true
+  caption: 'CHEMSMART'
+  focal_point: "Center"
+  preview_only: false
 
 projects: []
 

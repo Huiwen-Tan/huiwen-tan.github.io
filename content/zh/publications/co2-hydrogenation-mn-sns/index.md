@@ -7,7 +7,7 @@ authors:
   - Zhang, X.
 date: 2026-01-15
 publication_types: ["article-journal"]
-publication: "*ACS Catalysis*"
+publication: "*ACS Catal.*"
 publication_short: "ACS Catal."
 doi: "10.1021/acscatal.6c03391"
 abstract: "与 Vummaleti, S. V. C. 同等贡献（†）。"
