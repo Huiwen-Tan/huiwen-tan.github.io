@@ -10,7 +10,7 @@ last_name: Tan
 superuser: true
 
 # Role/position/tagline
-role: MPhil Student
+role: Postgraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -151,7 +151,7 @@ skills:
 
 ---
 
-Welcome to my homepage! I am an MPhil student in [the Department of Chemistry, The Chinese University of Hong Kong](https://chem.cuhk.edu.hk/). My research focuses on developing computational chemistry tools to automate workflows and accelerate chemical discovery.
+Welcome to my homepage! I am a research postgraduate student in [the Department of Chemistry, The Chinese University of Hong Kong](https://chem.cuhk.edu.hk/). My research focuses on developing computational chemistry tools to automate workflows and accelerate chemical discovery.
 
 Prior to this, I obtained my Bachelor of Advanced Science with First-Class Honours at [the University of Queensland](https://scmb.uq.edu.au/profile/12166/huiwen-tan), under the supervision of [Prof. Ben Powell](https://people.smp.uq.edu.au/BenPowell/index.html) and [Dr Carla Verdi](https://sites.google.com/view/carla-verdi/home).
 
