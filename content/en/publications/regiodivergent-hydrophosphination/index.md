@@ -14,7 +14,17 @@ publication_types: ["article-journal"]
 publication: "*Nature Communications*, **2025**, 16, 6216"
 publication_short: "Nat. Commun."
 doi: "10.1038/s41467-025-61415-8"
-url_pdf: "https://doi.org/10.1038/s41467-025-61415-8"
 abstract: ""
 featured: false
+
+external_link: "https://doi.org/10.1038/s41467-025-61415-8"
+_build:
+  render: never
+  list: always
+
+url_pdf: /uploads/regiodivergent-hydrophosphination.pdf
+url_dataset: https://zenodo.org/records/15146172
+links:
+  - name: SI
+    url: /uploads/regiodivergent-hydrophosphination_SI.pdf
 ---
