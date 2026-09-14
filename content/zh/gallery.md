@@ -12,7 +12,7 @@ sections:
     content:
       title: 2025
       text: |-
-        港中文章教授实验室博士生的第一张合影 (导师不在🔥🔥🔥)
+        港中文化学系研究生合影 🔥🔥🔥
         ![zhanglab1](zhanglab_phd.jpg)
   - block: markdown
     content:

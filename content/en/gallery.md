@@ -12,7 +12,7 @@ sections:
     content:
       title: 2025
       text: |-
-        The first group photo of PhD students in CUHK Zhang Lab (without PI 🔥🔥🔥)
+        The first group photo with research peers at CUHK Chemistry 🔥🔥🔥
         ![zhanglab1](zhanglab_phd.jpg)
   - block: markdown
     content:

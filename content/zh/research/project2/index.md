@@ -22,7 +22,7 @@ url_pdf: uploads/Report_Draft.pdf
 image:
   caption: 'Image credit: Huiwen Tan'
   focal_point: ""
-  preview_only: ture
+  preview_only: true
 
 projects: []
 

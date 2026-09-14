@@ -18,7 +18,7 @@ url_poster: poster.jpg
 image:
   caption: 'Image credit: Huiwen Tan'
   focal_point: ""
-  preview_only: ture
+  preview_only: true
 
 projects: []
 
