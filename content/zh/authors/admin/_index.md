@@ -10,7 +10,7 @@ last_name: 谈
 superuser: true
 
 # Role/position/tagline
-role: 研究生
+role: 博士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,11 +34,11 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/0009-0003-9663-7689
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=e_4QaikAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=I7J7SKYAAAAJ&hl=zh-CN&oi=ao
     label: Google Scholar
 
 education:
-  - area: 化学哲学硕士
+  - area: 化学博士
     institution: 香港中文大学
     date_start: 2025-08-01
     date_end: 2027-06-30

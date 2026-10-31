@@ -34,12 +34,12 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/0009-0003-9663-7689
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=e_4QaikAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=I7J7SKYAAAAJ&hl=zh-CN&oi=ao
     label: Google Scholar
 
 
 education:
-  - area: Master of Philosophy in Chemistry
+  - area: Doctor of Philosophy in Chemistry
     institution: The Chinese University of Hong Kong
     date_start: 2025-08-01
     date_end: 2027-06-30
